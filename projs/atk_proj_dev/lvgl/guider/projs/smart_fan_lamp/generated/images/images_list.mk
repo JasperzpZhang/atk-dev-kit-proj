@@ -1,0 +1,1 @@
+GEN_CSRCS += _sunny_alpha_62x59.c

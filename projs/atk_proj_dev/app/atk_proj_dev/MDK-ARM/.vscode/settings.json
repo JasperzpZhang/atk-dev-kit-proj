@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "lv_port_disp.h": "c",
+        "custom.h": "c",
+        "include.h": "c"
+    }
+}
